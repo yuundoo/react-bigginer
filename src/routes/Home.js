@@ -18,6 +18,7 @@ function Home() {
     return <div>
       {loading ? <h1>Loading...</h1> : <div>{movies.map((movie) => <ShowMovie 
       key={movie.id}
+      id ={movie.id}
       medium_cover_image={movie.medium_cover_image} 
       title={movie.title}
       summary={movie.summary} 

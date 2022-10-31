@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/yuundoo/react-bigginer.git/static/js/main.4c570241.js",
-    "index.html": "/yuundoo/react-bigginer.git/index.html",
-    "main.4c570241.js.map": "/yuundoo/react-bigginer.git/static/js/main.4c570241.js.map"
+    "main.js": "/react-bigginer/static/js/main.aa0aca7b.js",
+    "index.html": "/react-bigginer/index.html",
+    "main.aa0aca7b.js.map": "/react-bigginer/static/js/main.aa0aca7b.js.map"
   },
   "entrypoints": [
-    "static/js/main.4c570241.js"
+    "static/js/main.aa0aca7b.js"
   ]
 }

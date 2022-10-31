@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-bigginer.git/static/js/main.9b6802fe.js",
-    "index.html": "/react-bigginer.git/index.html",
-    "main.9b6802fe.js.map": "/react-bigginer.git/static/js/main.9b6802fe.js.map"
+    "main.js": "/react-bigginer/static/js/main.593ec837.js",
+    "index.html": "/react-bigginer/index.html",
+    "main.593ec837.js.map": "/react-bigginer/static/js/main.593ec837.js.map"
   },
   "entrypoints": [
-    "static/js/main.9b6802fe.js"
+    "static/js/main.593ec837.js"
   ]
 }
